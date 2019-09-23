@@ -2,4 +2,9 @@ Chocolate
 Spaghetti
 Twice Baked Potatoes
 Green Beans
+<<<<<<< HEAD
 Mangos
+=======
+Pizza
+Corn on the cob
+>>>>>>> let's add corn:)
